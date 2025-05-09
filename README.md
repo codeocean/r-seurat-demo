@@ -4,25 +4,31 @@ This repository serves as the starting point for creating a GitHub-integrated Ca
 
 ### Runtime environment
 
-Choose the **Python and R (Jupyterlab/RStudio) (python3.10.12-R4.2.3-IRkernel-ubuntu22.04)** starter environment and add the following packages to the mamba package manager with the **bioconda** channel:
+Choose the **Python and R (Jupyterlab/RStudio) (python3.10.12-R4.2.3-IRkernel-ubuntu22.04)** starter environment and add the following packages to the appropriate package manager:
 
-bioconductor-biocversion=3.20.0
-
-bioconductor-limma=3.62.1
-
-r-biocmanager=1.30.25
+**mamba**
 
 r-irkernel=1.3.2
 
-r-markdown=1.13
-
-r-rcpp=1.0.14
+r-rcpp=1.0.11
 
 r-seurat=5.1.0
 
-To the **R(GitHub)** package manager, add:
+**R (CRAN)**
+
+BiocManager=1.30.25
+
+markdown=2.0
+
+**R (GitHub)**
 
 immunogenomics/presto
+
+**Bioconductor**
+
+BiocVersion=3.16.0
+
+limma=3.54.2
 
 ### Required Data
 
