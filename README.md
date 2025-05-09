@@ -4,7 +4,7 @@ This repository serves as the starting point for creating a GitHub-integrated Ca
 
 ### Runtime environment
 
-Choose the **Python and R (Jupyterlab/RStudio) (python3.10.12-R4.2.3-IRkernel-ubuntu22.04)** starter environment and add the following packages to the appropriate package manager:
+Choose the **Python and R (Jupyterlab/RStudio) (3.10.12, R 4.2.3, JupyterLab 3.6.2, RStudio 2022.07.0-548)** starter environment and add the following packages to the appropriate package manager:
 
 **mamba**
 
