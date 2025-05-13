@@ -10,6 +10,8 @@ Choose the **Python and R (Jupyterlab/RStudio) (3.10.12, R 4.2.3, JupyterLab 3.6
 
 r-irkernel=1.3.2
 
+r-presto=1.0.0
+
 r-rcpp=1.0.11
 
 r-seurat=5.1.0
@@ -19,10 +21,6 @@ r-seurat=5.1.0
 BiocManager=1.30.25
 
 markdown=2.0
-
-**R (GitHub)**
-
-immunogenomics/presto
 
 **Bioconductor**
 
